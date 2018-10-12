@@ -18,3 +18,13 @@
 **Thoughts:** I feel like I'm becoming more and more comfortable with JS methods every day. I've noticed that at the beginning of the intermediate algorithms section, my answers usually aligned with the intermediate (sometimes beginning) answers suggested by fCC. At the end, however, my answers tended to align with the advanced answers suggested. I think it shows I'm becoming more comfortable using higher-order functions and methods. Nested arrays and objects still give me a hard time, as does recursion 🤯
 
 **Link to work:** https://github.com/cmccrea23/freeCodeCamp/tree/master/JavascriptAlgorithms-%26-DataStructures/IntermediateAlgorithmScripting
+
+
+
+# Day 3: October 12, 2018
+
+**Today's Progress**: Finished Cash Register! Started redoing Bootstrap.
+
+**Thoughts:** Finishing the Javascript Certification today made me feel like I can actually do this; I really can become a dev and change my career. I remember Bootstrap from earlier, so this next section shouldn't take too long.
+
+**Link to work:** https://github.com/cmccrea23/freeCodeCamp/tree/master/JavascriptAlgorithms-%26-DataStructures/Projects
